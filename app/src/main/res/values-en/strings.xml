@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <resources>
+        <string name="app_name">YourAppName</string>
+        <string name="data_saved_successfully">Data saved successfully</string>
+        <string name="key_and_value_cannot_be_empty">Key and value cannot be empty</string>
+        <string name="key_already_exists">Key already exists. Choose a different key or update the value.</string>
+        <string name="enter_key_to_search">Enter a key to search</string>
+        <string name="data_deleted_successfully">Data deleted successfully</string>
+        <string name="key_not_found">Key not found</string>
+        <string name="data_updated_successfully">Data updated successfully</string>
+        <string name="enter_key_to_delete">Enter a key to delete</string>
+        <string name="enter_key_hint">Enter the key</string>
+        <string name="enter_value_hint">Enter the data</string>
+        <string name="saveButton">Save</string>
+        <string name="searchButton">Search</string>
+        <string name="updateButton">Update</string>
+        <string name="deleteButton">Delete</string>
+        <string name="listButton">List</string>
+</resources>

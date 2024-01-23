@@ -1,3 +1,18 @@
 <resources>
-    <string name="app_name">Parejas_RafaLucenaAlejandroGalvez</string>
+    <string name="app_name">ParejasDeDatos</string>
+    <string name="data_saved_successfully">Datos guardados correctamente</string>
+    <string name="key_and_value_cannot_be_empty">La clave y el valor no pueden estar vacíos</string>
+    <string name="key_already_exists">La clave ya existe. Elija una clave diferente o actualice el valor.</string>
+    <string name="enter_key_to_search">Ingrese una clave para buscar</string>
+    <string name="data_deleted_successfully">Datos eliminados correctamente</string>
+    <string name="key_not_found">Clave no encontrada</string>
+    <string name="data_updated_successfully">Datos actualizados correctamente</string>
+    <string name="enter_key_to_delete">Ingrese una clave para eliminar</string>
+    <string name="saveButton">Guardar</string>
+    <string name="searchButton">Buscar</string>
+    <string name="deleteButton">Eliminar</string>
+    <string name="updateButton">Actualizar</string>
+    <string name="listButton">Listar</string>
+    <string name="enter_key_hint">Introduce la clave</string>
+    <string name="enter_value_hint">Introduce el dato</string>
 </resources>
