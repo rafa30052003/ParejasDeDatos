@@ -1,9 +1,22 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
-    <!-- Base application theme. -->
+
     <style name="Base.Theme.Parejas_RafaLucenaAlejandroGalvez" parent="Theme.Material3.DayNight.NoActionBar">
-        <!-- Customize your light theme here. -->
-        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">@color/azul_primario</item>
+        <item name="colorPrimaryDark">@color/azul_primario_oscuro</item>
+        <item name="colorAccent">@color/verde_acento</item>
+        <item name="android:windowBackground">@color/blanco</item>
+        <item name="android:textColorPrimary">@color/negro</item>
+        <item name="android:statusBarColor">@color/azul_primario_dark</item>
+        <item name="android:buttonTint">@color/rojo</item>
     </style>
 
     <style name="Theme.Parejas_RafaLucenaAlejandroGalvez" parent="Base.Theme.Parejas_RafaLucenaAlejandroGalvez" />
+
+    <color name="azul_primario">#2196F3</color>
+    <color name="azul_primario_oscuro">#1976D2</color>
+    <color name="verde_acento">#4CAF50</color>
+    <color name="blanco">#FFFFFF</color>
+    <color name="negro">#000000</color>
+    <color name="azul_primario_dark">#1565C0</color>
+    <color name="rojo">#FF0000</color>
 </resources>
